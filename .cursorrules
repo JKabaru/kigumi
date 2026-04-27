@@ -1,0 +1,7 @@
+# Cursor / Kilo Code / Windsurf / Antigravity rules
+
+Read AGENTS.md first. Everything is there.
+
+This file exists because Cursor-family tools read .cursorrules or cursor.rules specifically. The actual instructions live in AGENTS.md to keep a single source of truth across all agents.
+
+After reading AGENTS.md, read the four skill files listed in it before responding to anything. If your tool does not support a skill-loading mechanism, read the SKILL.md files directly as context at session start.
