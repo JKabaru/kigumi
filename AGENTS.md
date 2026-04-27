@@ -9,6 +9,8 @@ You are working on a project that uses a structured skill-based methodology. Bef
 2. `skills/build-discipline/SKILL.md` — the workflow you follow for every task.
 3. `skills/wiki-workflow/SKILL.md` — how to use and maintain the project knowledge base.
 4. `skills/research-loop/SKILL.md` — how to run iterative improvement loops.
+5. `skills/github-workflow/SKILL.md` — how to assist with GitHub. Suggest, never act unilaterally.
+6. `skills/versioning/SKILL.md` — when and how to version. Nothing commits before it is tested.
 
 Read all four before responding to any task request.
 
@@ -34,6 +36,8 @@ Read all four before responding to any task request.
 | Answer a domain question | Search wiki/ first |
 | Run an improvement loop | Read research-loop skill → read program.md |
 | Learn from a new document | Read wiki-workflow skill → ingest |
+| Any git/GitHub action | Read github-workflow skill → suggest, never act unilaterally |
+| Before any commit | Read versioning skill → confirm tested and working first |
 | Any task | Apply kigumi mindset throughout |
 
 ## If you are uncertain

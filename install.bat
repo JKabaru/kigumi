@@ -102,7 +102,7 @@ rem --- Copy skill files ---
 
 if not exist "%TARGET%\skills" mkdir "%TARGET%\skills"
 
-for %%S in (kigumi build-discipline wiki-workflow research-loop) do (
+for %%S in (kigumi build-discipline wiki-workflow research-loop github-workflow versioning) do (
     if not exist "%TARGET%\skills\%%S" mkdir "%TARGET%\skills\%%S"
     copy /Y "%KIGUMI_DIR%\skills\%%S\SKILL.md" "%TARGET%\skills\%%S\SKILL.md" >nul
     echo  [OK] skills/%%S/SKILL.md
